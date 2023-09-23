@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hL18a
 - 🌱 I’m currently learning Python and Bash
-- 👨‍💻 All of my projects are available at ....
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
